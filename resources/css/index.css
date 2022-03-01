@@ -1,0 +1,101 @@
+/* FONTS 
+
+font-family: 'Open Sans', Helvetica, sans-serif;
+font-family: 'Poppins', Tahoma, sans-serif;
+font-family: 'Source Sans Pro', 'Trebuchet MS', sans-serif;
+
+*/
+
+html {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    margin: 0px 10%;
+}
+
+.box {
+    
+    border: 2px solid rgba(84, 63, 141, 0.404);
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.green {
+    background-color: #0d1b1e;
+    color: white;
+}
+
+.pink {
+    background-color: #f2cee6;
+}
+
+.blue {
+    background-color: #8cbaba;
+}
+
+.purple {
+    background-color: #7c6c77;
+    color: white;
+}
+
+.yellow {
+    background-color: #ffd670;
+}
+
+.swatch {
+    display: inline-block;
+    width: 32%;
+    min-height: 100px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.opensans {
+    font-family: 'Open Sans', Helvetica, sans-serif; 
+}
+
+.poppins {
+    font-family: 'Poppins', Tahoma, sans-serif;
+}
+
+.sourcesanspro {
+    font-family: 'Source Sans Pro', 'Trebuchet MS', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text {
+    display: inline-block;
+    width: 45%;
+}
+
+.styles h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Poppins', Tahoma, sans-serif;
+}
+
+.styles h2 {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.styles p {
+    font-family: 'Source Sans Pro', 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
